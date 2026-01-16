@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im'm Konerai, network programmer base in Russia.
+I'm Konerai, network programmer base in Russia.
 
 I create software for network packet sniffing and network monitoring.
 
