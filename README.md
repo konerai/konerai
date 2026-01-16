@@ -27,5 +27,6 @@ and like to implement large equations in one line of Python.
 
 Fun fact:
  -Python is the best calculator in the world. Try changing my mind 😆
+ -Hobby: anime, game and 3D modeling
 
 
