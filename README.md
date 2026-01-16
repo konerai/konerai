@@ -19,14 +19,14 @@ I'm Konerai, network programmer base in Russia.
 
 I create software for network packet sniffing and network monitoring.
 
-My main tech stack libpicap, tcpdump, sys/socket and boost. 
+My main tech stack libpicap, tcpdump, sys/socket and boost.   
 My favorite programming languages ​​are C/C++ and a little Python.
 
-In my free time, I program well-known mathematical encryption algorithms (RSA, Magma) 
+In my free time, I program well-known mathematical encryption algorithms (RSA, Magma)   
 and like to implement large equations in one line of Python.
 
-Fun fact:
- -Python is the best calculator in the world. Try changing my mind 😆
+Fun fact:  
+ -Python is the best calculator in the world. Try changing my mind 😆  
  -Hobby: anime, game and 3D modeling
 
 
