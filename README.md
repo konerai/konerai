@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Konerai, network programmer base in Russia.
+I'm Konerai – an information security specialist based in Russia.
 
-I create software for network packet sniffing and network monitoring.
+My main professional focus is protecting information systems: risk assessment, access control, incident response, and ensuring overall security posture of enterprise infrastructure.
 
-My main tech stack libpicap, tcpdump, sys/socket and boost.   
-My favorite programming languages ​​are C/C++ and a little Python.
+Programming, on the other hand, is my hobby – though a very technical one. In my spare time, I enjoy writing network tools for packet sniffing and traffic monitoring (using libpcap, tcpdump, sys/socket, and Boost), just because I find low‑level networking fascinating. My go‑to languages are C/C++ and a little Python and bash script.
+Fun facts:
 
-In my free time, I program well-known mathematical encryption algorithms (RSA, Magma)   
-and like to implement large equations in one line of Python.
+Python is the best calculator in the world. Try to change my mind 😆
 
-Fun fact:  
- -Python is the best calculator in the world. Try changing my mind 😆  
- -Hobby: anime, game and 3D modeling
+Other hobbies: anime, video games, and 3D modeling.
 
 
